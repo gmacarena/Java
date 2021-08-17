@@ -1,2 +1,2 @@
 # Java
-Repositorio para la clase de Programación II de TUP
+Repositorio para la clase de Laboratorio II de TUP
